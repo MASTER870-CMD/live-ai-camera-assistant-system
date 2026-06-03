@@ -1,0 +1,5 @@
+opencv-python
+PyAudio
+Pillow
+psutil
+google-genai
