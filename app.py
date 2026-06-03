@@ -44,7 +44,7 @@ MODEL = "models/gemini-3.1-flash-live-preview"
 # --- API CLIENT ---
 client = genai.Client(
     http_options={"api_version": "v1beta"},
-    api_key="AIzaSyA27SuEolvO5toOw2ipPrKhi-outcio9mA", 
+    api_key="enter-your-api", 
 )
 
 # ---------------------------------------------------------------------
